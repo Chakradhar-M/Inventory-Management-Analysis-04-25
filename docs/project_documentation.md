@@ -59,7 +59,7 @@ The dashboard is designed to be intuitive, visually appealing, and actionable, m
   </tr>
 </table>
 
-🔗 Check out the **Data Dictionary** here 👉 (#)
+🔗 Check out the **Data Dictionary** here 👉 [Click Here](https://github.com/Chakradhar-M/Inventory-Management-Analysis-04-25/blob/main/dataset/data_dictionary.md)
 
 ---
 
